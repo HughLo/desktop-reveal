@@ -10,6 +10,8 @@ The following table shows separator used by this application.
 |data-separator|---->|
 |data-separator-note|Note:|
 
+There is a file **reveal.md** under test folder, which can be used as a example for you to write external markdown.
+
 # How-to
 
 * Clone the project into your disk
