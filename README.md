@@ -23,3 +23,8 @@ There is a file **reveal.md** under test folder, which can be used as a example 
 
 > **New** button can not work right now. Enjoy your journey!
 
+
+# TODO
+
+- [ ] Create a workspace so that it can refer to local resources
+- [ ] Create a slide editor
