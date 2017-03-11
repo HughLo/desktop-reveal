@@ -16,6 +16,7 @@ const init = ()=> {
     $("section").attr({
       "data-separator-vertical": "^\\|\\|\\|\\|\\|$",
       "data-separator": "^\\-\\-\\-\\-\\>$",
+      "data-separator-note": "^Note:",
       "data-markdown": url
     });
 
