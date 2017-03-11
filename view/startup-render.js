@@ -21,7 +21,6 @@ $("#browser-btn").on("click", ()=> {
     mdWin = new BrowserWindow({width: 800, height: 600});
     console.log(`app path: ` + app.getAppPath());
     mdWin.loadURL(`file://` + app.getAppPath() + `/view/reveal.html`);
-    mdWin.webContents.openDevTools();
     mdWin.on("closed", ()=>{mdWin=null;});
   })
 });
