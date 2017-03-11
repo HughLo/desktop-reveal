@@ -3,6 +3,7 @@
 By combining reveal.js and electron, create a desktop experice of using reveal.js.
 This application uses external markdown as the mean to compose the slides. 
 The following table shows separator used by this application.
+
 |reveal.js tag|separator|
 |-------------|---------|
 |data-separator-vertical|\|\|\|\|\||
